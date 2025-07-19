@@ -8,7 +8,7 @@
 #include <linux/udp.h>
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Ashita");
+MODULE_AUTHOR("Ojas");
 
 
 static struct nf_hook_ops *nfho = NULL;
