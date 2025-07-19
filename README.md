@@ -1,6 +1,6 @@
 # Kernel Recon Shield
 
-<img width="1500" height="800" alt="Custom Firewall" src="https://github.com/user-attachments/assets/2e382bc8-c878-4246-a710-03107e85b403" />
+<img width="534" height="530" alt="Custom Firewall Shield" src="https://github.com/user-attachments/assets/be0767c6-bcfb-438d-b6b3-14ba7eb03dae" />
 
 A custom Linux-based firewall tool built for deep packet inspection, rule-based traffic control, and protocol anomaly detection using Netfilter and low-level kernel hooks.
 
