@@ -10,4 +10,3 @@ echo "SYN SCAN"
 nmap -sS -p 80 127.0.0.1
 echo "NULL SCAN"
 nmap -sN -p 80 127.0.0.1
-
